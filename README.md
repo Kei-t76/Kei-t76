@@ -1,5 +1,5 @@
 ## My gitpress
  - https://gitpress.io/u/1559/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kei-t76&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kei-t76&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
