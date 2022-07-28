@@ -1,6 +1,6 @@
 ## Theme
 - Biological Neural Network
-- DeepLearning
+- Deep Learning
 
 ## Language
 
