@@ -1,8 +1,11 @@
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kei-t76&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
+### About
 
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kei-t76&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Language
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Kei-t76&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kei-t76)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
