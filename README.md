@@ -1,8 +1,8 @@
 ## Research Theme
 - Biological Neural Network
--- Retinal Circuits
+  - Retinal Circuits
 - Deep Learning
--- Out-of-Distribution Generalization
+  - Out-of-Distribution Generalization
 
 ## Language
 
